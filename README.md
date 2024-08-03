@@ -7,5 +7,5 @@
 
 1. git clone https://github.com/abu-saied-mondal/quiz_system.git
 2. composer require laravel/sanctum
-3. create database quizsystem and import quizsystem.sql
+3. create database quizsystem and import quizsystem.sql already in root folder
 4. php artisan serve to run
